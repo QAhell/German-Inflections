@@ -1,6 +1,6 @@
 # German Inflections
 
-This repository provides SQL scripts that contain inflections of the German
+This repository provides MySQL scripts that contain inflections of the German
 words from Wiktionary.
 
 At the moment it only contains proper *nouns* and *regular verbs*.
