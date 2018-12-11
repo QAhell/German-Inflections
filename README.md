@@ -3,8 +3,8 @@
 This repository provides MySQL scripts that contain inflections of the German
 words from Wiktionary.
 
-At the moment it only contains proper *nouns* and *regular verbs*.
-You'll see adjectives in this repository at the end of this year.
+At the moment it only contains proper *nouns* and *verbs*.
+You'll see adjectives in this repository by the end of this year.
 
 ## License
 
