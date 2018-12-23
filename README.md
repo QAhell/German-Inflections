@@ -3,8 +3,11 @@
 This repository provides MySQL scripts that contain inflections of the German
 words from Wiktionary.
 
-At the moment it only contains proper *nouns* and *verbs*.
-You'll see adjectives in this repository by the end of this year.
+At the moment it only contains proper *nouns*, *verbs* and *adjectives*.
+One kind of nouns is missing and that is nouns derived from adjectives.
+Their inflection is just like the inflection of adjectives so they don't
+quite fit into the noun tables. You can construct these nouns from
+the adjective tables.
 
 ## License
 
